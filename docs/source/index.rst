@@ -10,5 +10,5 @@ Contents
 .. toctree::
 
    parts
-   researcj
+   research
    ui
