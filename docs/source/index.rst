@@ -1,7 +1,7 @@
 Welcome to the Launcher guide!
 ===================================
 
-There are some places to visit if you're trying to learn, such as `parts`_, `research`_, and `ui`_.
+There are some places to visit if you're trying to learn, such as :ref:`parts`, :ref:`research`, and :ref:`ui`.
 
 
 Contents
